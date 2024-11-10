@@ -1,4 +1,4 @@
-package Java;
+package Java.Login;
 
 import java.util.HashMap;
 import java.util.Scanner;
