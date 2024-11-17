@@ -1,14 +1,8 @@
 package Java;
-
 class hello
 {
-    public static void main(String s[]) 
+    public static void main(String s[])
     {
-        System.out.print("hello");  
-        
+        System.out.print("hello");     
     }
-
-
 }
-
-
