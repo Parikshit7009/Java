@@ -6,3 +6,7 @@ class hello
         System.out.print("hello");     
     }
 }
+for i in range();
+
+
+
